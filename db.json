@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Batom Matte",
+      "category": "Maquiagem",
+      "price": 29.90,
+      "image": "https://images.unsplash.com/photo-1617422275558-e5f616302690?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Batom matte duradouro, ideal para todos os tons de pele."
+    },
+    {
+      "id": 2,
+      "name": "Sombras Glam",
+      "category": "Maquiagem",
+      "price": 79.90,
+      "image": "https://example.com/images/paleta-sombras.jpg",
+      "description": "Paleta de sombras com cores vibrantes para qualquer ocasião."
+    },
+    {
+      "id": 3,
+      "name": "Base Natural",
+      "category": "Maquiagem",
+      "price": 59.90,
+      "image": "https://example.com/images/base-natural.jpg",
+      "description": "Base líquida leve, ideal para o clima quente de Angola."
+    },
+    {
+      "id": 4,
+      "name": "Hidratante Facial",
+      "category": "Cuidados com a Pele",
+      "price": 49.90,
+      "image": "https://example.com/images/hidratante-facial.jpg",
+      "description": "Hidratante com ácido hialurônico para manter a pele fresca."
+    },
+    {
+      "id": 5,
+      "name": "Rímel Volume",
+      "category": "Maquiagem",
+      "price": 39.90,
+      "image": "https://example.com/images/mascara-cilios.jpg",
+      "description": "Máscara de cílios para volume e definição marcante."
+    },
+    {
+      "id": 6,
+      "name": "Creme Noite",
+      "category": "Cuidados com a Pele",
+      "price": 89.90,
+      "image": "https://example.com/images/creme-noite.jpg",
+      "description": "Creme hidratante noturno para reduzir sinais de idade."
+    },
+    {
+      "id": 7,
+      "name": "Perfume Floral",
+      "category": "Perfumes",
+      "price": 149.90,
+      "image": "https://example.com/images/perfume-floral.jpg",
+      "description": "Perfume delicado com fragrância floral, ideal para eventos."
+    },
+    {
+      "id": 8,
+      "name": "Esmalte Gel",
+      "category": "Unhas",
+      "price": 19.90,
+      "image": "https://example.com/images/esmalte-gel.jpg",
+      "description": "Esmalte de longa duração com brilho intenso."
+    },
+    {
+      "id": 9,
+      "name": "Kit Nutritivo",
+      "category": "Cabelos",
+      "price": 69.90,
+      "image": "https://example.com/images/kit-shampoo-condicionador.jpg",
+      "description": "Shampoo e condicionador para cabelos hidratados e brilhantes."
+    },
+    {
+      "id": 10,
+      "name": "Óleo de Amêndoas",
+      "category": "Cuidados com o Corpo",
+      "price": 39.90,
+      "image": "https://example.com/images/oleo-corporal.jpg",
+      "description": "Óleo hidratante para deixar a pele macia e perfumada."
+    },
+    {
+      "id": 11,
+      "name": "Sérum Facial",
+      "category": "Cuidados com a Pele",
+      "price": 99.90,
+      "image": "https://example.com/images/serum-vitamina-c.jpg",
+      "description": "Sérum com vitamina C para pele radiante e saudável."
+    },
+    {
+      "id": 12,
+      "name": "Primer Facial",
+      "category": "Maquiagem",
+      "price": 45.90,
+      "image": "https://example.com/images/primer-facial.jpg",
+      "description": "Primer para reduzir poros e uniformizar a pele."
+    },
+    {
+      "id": 13,
+      "name": "Removedor Bifásico",
+      "category": "Cuidados com a Pele",
+      "price": 24.90,
+      "image": "https://example.com/images/removedor-maquiagem.jpg",
+      "description": "Removedor suave, perfeito para áreas sensíveis."
+    },
+    {
+      "id": 14,
+      "name": "Escova Antifrizz",
+      "category": "Acessórios",
+      "price": 29.90,
+      "image": "https://images.unsplash.com/photo-1559671216-bda69517c47f?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Escova especial para cabelos mais alinhados e sem frizz."
+    },
+    {
+      "id": 15,
+      "name": "Máscara Capilar",
+      "category": "Cabelos",
+      "price": 49.90,
+      "image": "https://example.com/images/mascara-capilar.jpg",
+      "description": "Máscara que repara e hidrata profundamente os cabelos."
+    },
+    {
+      "id": 16,
+      "name": "Sabonete Lavanda",
+      "category": "Cuidados com o Corpo",
+      "price": 22.90,
+      "image": "https://example.com/images/sabonete-corporal.jpg",
+      "description": "Sabonete líquido com fragrância relaxante de lavanda."
+    },
+    {
+      "id": 17,
+      "name": "Lápis à Prova",
+      "category": "Maquiagem",
+      "price": 19.90,
+      "image": "https://example.com/images/lapis-olho.jpg",
+      "description": "Lápis de olho resistente à água com alta pigmentação."
+    },
+    {
+      "id": 18,
+      "name": "Água Micelar",
+      "category": "Cuidados com a Pele",
+      "price": 34.90,
+      "image": "https://example.com/images/agua-micelar.jpg",
+      "description": "Produto 3 em 1: limpa, tonifica e hidrata."
+    },
+    {
+      "id": 19,
+      "name": "Iluminador Líquido",
+      "category": "Maquiagem",
+      "price": 39.90,
+      "image": "https://example.com/images/iluminador-facial.jpg",
+      "description": "Iluminador para brilho natural e duradouro."
+    },
+    {
+      "id": 20,
+      "name": "Perfume Sweet",
+      "category": "Perfumes",
+      "price": 99.90,
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=1408&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Perfume leve com fragrância doce e marcante."
+    }
+  ]
+}
