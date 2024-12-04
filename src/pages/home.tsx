@@ -5,6 +5,9 @@ import { Product } from "../types/type";
 export default function HomePage() {
   const { data: products, isLoading, error } = useProducts();
 
+
+  console.log(products);
+
   const urlBannerImage =
     "https://media.istockphoto.com/id/1413950709/photo/young-afro-woman-using-mobile-phone-at-coffee-shop.jpg?s=1024x1024&w=is&k=20&c=bTYbxmyfRtOt8ZXen5jDw835fi1YCWh6OziUtNFivLI=";
 
